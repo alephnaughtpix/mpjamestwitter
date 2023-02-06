@@ -2,9 +2,6 @@
 .pydevproject
 _site/*
 _status/*
-archive/2020
-archive/2021
-archive/2022
 media/*
 scripts/*.json
 scripts/windows/.jekyll*
