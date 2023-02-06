@@ -1,0 +1,7 @@
+---
+layout: base 
+---
+{% assign following = site.data.following | sort: "handle" %}
+{% for user in following %}
+    {% include twitter-user.html handle=user.handle twitter_url=user.twitter_url %}
+{% endfor %}

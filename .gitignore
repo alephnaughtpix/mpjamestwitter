@@ -1,0 +1,9 @@
+.project
+.pydevproject
+_site/*
+_status/*
+archive/*
+media/*
+scripts/*.json
+scripts/windows/.jekyll*
+source/*
