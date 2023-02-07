@@ -1,6 +1,5 @@
 .project
 .pydevproject
 _site/*
-scripts/*.json
 scripts/windows/.jekyll*
 source/*
